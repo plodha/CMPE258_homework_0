@@ -5,7 +5,9 @@ Title: Applications of deep learning in stock market prediction: recent progress
 Author: Weiwei Jiang
 
 Short Story Presentation: [PowerPoint Presentation](https://github.com/plodha/CMPE258_homework_0/blob/master/Short%20Story/Short%20Story%20Presentation.pdf)
+
 Short Story Video: [Video MP4 file](https://github.com/plodha/CMPE258_homework_0/blob/master/Short%20Story/Short-Story-Video-compressed.mp4)
+
 Short Story Article: [Medium Article](https://github.com/plodha/CMPE258_homework_0/blob/master/Short%20Story/Medium%20Article.pdf) *
 
 
